@@ -6,4 +6,4 @@ if "A" in tupleVar:
     print("Yes")
 
 tupleVar[2]="Z"
-print(tupleVar)         #error bcz we cannot change values in tuple
+print(tupleVar)        #error bcz we cannot change values in tuple
