@@ -12,4 +12,3 @@ print(setVar2)
 
 setVar.union(setVar2)
 print(setVar)
-
