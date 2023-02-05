@@ -7,3 +7,5 @@ if "A" in tupleVar:
 
 tupleVar[2]="Z"
 print(tupleVar)        #error bcz we cannot change values in tuple
+
+
