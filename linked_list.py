@@ -3,7 +3,6 @@ class node:
         self.data = data
         self.next = None
 
-
 class Link_list:
     def __init__(self):
         self.start = None
@@ -35,8 +34,6 @@ class Link_list:
             while temp.next != None:
                 print(temp.data, end=' ')
                 temp = temp.next
-
-
 
 mylist = Link_list()
 mylist.show_list()
