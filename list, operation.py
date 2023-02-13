@@ -5,6 +5,7 @@ print(listVar)
 add_e=listVar.append("e")      #add "e" in listVar at last pos
 print(listVar)
 print(add_e)                   # print none
+
 listVar.insert(2,'s')          #add "s" at pos 2
 print(listVar)
 listVar.remove("A")    
